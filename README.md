@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 E aí, tudo bem? Eu sou a Kalyma!
 
-<!--
-**KalyNobile/KalyNobile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Analista de Dados, com olhar curioso e mente analítica. e pós-graduanda em Ciência de Dados pela PUC Minas 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 O que eu sei fazer:
+
+- 🐍 Python: pandas, matplotlib ...
+- 🗃️ Domínio de SQL para explorar e modelar dados com precisão
+- 📊 Criação de dashboards interativos e inteligentes com Power BI (DAX, ETL)
+- 🤓 Ciência de Dados: em constante evolução
+
+
+🚀Atualmente estou me aprofundando em:
+
+- Machine Learning com Scikit-learn
+- Engenharia de dados com Python e SQL
+- Visualizações avançadas com Power BI
